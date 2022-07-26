@@ -1,0 +1,159 @@
+player.png
+size: 126, 297
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+down
+  rotate: false
+  xy: 4, 4
+  size: 32, 36
+  orig: 46, 50
+  offset: 7, 0
+  index: 0
+down
+  rotate: false
+  xy: 44, 4
+  size: 31, 27
+  orig: 46, 50
+  offset: 7, 1
+  index: 1
+down
+  rotate: false
+  xy: 83, 4
+  size: 36, 29
+  orig: 46, 50
+  offset: 9, 7
+  index: 2
+duck
+  rotate: false
+  xy: 4, 48
+  size: 30, 24
+  orig: 46, 50
+  offset: 5, 1
+  index: 0
+idle
+  rotate: false
+  xy: 42, 48
+  size: 24, 38
+  orig: 46, 50
+  offset: 11, 1
+  index: 0
+idle
+  rotate: false
+  xy: 74, 48
+  size: 24, 37
+  orig: 46, 50
+  offset: 11, 1
+  index: 1
+jump
+  rotate: false
+  xy: 4, 94
+  size: 24, 41
+  orig: 46, 50
+  offset: 10, 0
+  index: 1
+jump
+  rotate: false
+  xy: 36, 94
+  size: 23, 39
+  orig: 46, 50
+  offset: 11, 1
+  index: 0
+running
+  rotate: false
+  xy: 67, 94
+  size: 36, 36
+  orig: 46, 50
+  offset: 4, 1
+  index: 0
+running
+  rotate: false
+  xy: 4, 143
+  size: 38, 35
+  orig: 46, 50
+  offset: 1, 1
+  index: 1
+running
+  rotate: false
+  xy: 50, 143
+  size: 34, 34
+  orig: 46, 50
+  offset: 7, 1
+  index: 2
+running
+  rotate: false
+  xy: 92, 143
+  size: 24, 33
+  orig: 46, 50
+  offset: 11, 1
+  index: 3
+running
+  rotate: false
+  xy: 4, 186
+  size: 35, 34
+  orig: 46, 50
+  offset: 4, 1
+  index: 4
+running
+  rotate: false
+  xy: 47, 186
+  size: 39, 35
+  orig: 46, 50
+  offset: 1, 1
+  index: 5
+running
+  rotate: false
+  xy: 94, 186
+  size: 28, 33
+  orig: 46, 50
+  offset: 8, 1
+  index: 6
+running
+  rotate: false
+  xy: 4, 229
+  size: 26, 34
+  orig: 46, 50
+  offset: 10, 1
+  index: 7
+sheild
+  rotate: false
+  xy: 38, 229
+  size: 31, 39
+  orig: 46, 50
+  offset: 7, 1
+  index: 0
+slide
+  rotate: false
+  xy: 77, 229
+  size: 41, 18
+  orig: 46, 50
+  offset: 5, 1
+  index: 0
+soul
+  rotate: false
+  xy: 4, 276
+  size: 12, 16
+  orig: 32, 32
+  offset: 10, 8
+  index: 0
+soul
+  rotate: false
+  xy: 24, 276
+  size: 12, 16
+  orig: 32, 32
+  offset: 10, 8
+  index: 1
+soul
+  rotate: false
+  xy: 44, 276
+  size: 12, 16
+  orig: 32, 32
+  offset: 10, 8
+  index: 2
+soul
+  rotate: false
+  xy: 64, 276
+  size: 12, 17
+  orig: 32, 32
+  offset: 10, 8
+  index: 3

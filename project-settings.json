@@ -1,0 +1,14 @@
+[{
+
+"res-x": 812,
+"res-y": 375,
+"ratio-x": 19.5,
+"ratio-y": 9,
+"project": "Rip-off",
+"orientation": "landscape",
+"framework": "libgdx",
+"touch-cap": true,
+"keyboard-cap": true,
+"physics": true
+
+}]
